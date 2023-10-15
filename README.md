@@ -4,6 +4,8 @@ So, basically, this repo contains a singular function which uses windows API to 
 
 Actually, kinda misleading, technically speaking the files themselves don't get copied to the clipboard, it's the paths that get copied, which point to the files.
 
+Decided to make a repo for this because online resources related to pasting files to the clipboard is almost non-existent.
+
 ## Usage
 
 This isn't on crates.io or anything because I don't think it's in a production ready state (maybe that will change one day who knows).
